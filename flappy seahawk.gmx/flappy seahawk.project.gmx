@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_pink_flappy</sprite>
+    <sprite>sprites\sprite1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -14,6 +15,7 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_pink_flappy</object>
+    <object>objects\obj__pipes</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\main</room>
